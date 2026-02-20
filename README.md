@@ -1,4 +1,4 @@
-# pokemon_wordle
+# pokemon-wordle
 
 A Pokemon-themed Wordle-style guessing game built using React and PokeAPI 
 
